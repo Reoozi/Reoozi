@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██╗   ██╗ █████╗ ███████╗███████╗██╗███╗   ██╗███████╗
-╚██╗ ██╔╝██╔══██╗██╔════╝██╔════╝██║████╗  ██║██╔════╝
- ╚████╔╝ ███████║███████╗███████╗██║██╔██╗ ██║█████╗  
-  ╚██╔╝  ██╔══██║╚════██║╚════██║██║██║╚██╗██║██╔══╝  
-   ██║   ██║  ██║███████║███████║██║██║ ╚████║███████╗
-   ╚═╝   ╚═╝  ╚═╝╚══════╝╚══════╝╚═╝╚═╝  ╚═══╝╚══════╝
+ _____  ______ ____   ____ ___________ 
+|  __ \|  ____/ __ \ / __ \___  /_   _|
+| |__) | |__ | |  | | |  | | / /  | |  
+|  _  /|  __|| |  | | |  | |/ /   | |  
+| | \ \| |___| |__| | |__| / /__ _| |_ 
+|_|  \_\______\____/ \____/_____|_____|
 ```
 
 </div>
@@ -118,12 +118,15 @@ status   : Building cool things. Always.
 ## `> cat ./stats.json`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reoozi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoozi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reoozi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" />
+  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoozi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reoozi&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com/?user=reoozi&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" />
 </div>
 
 ---
