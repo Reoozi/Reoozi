@@ -118,9 +118,15 @@ status   : Building cool things. Always.
 ## `> cat ./stats.json`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reoozi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=reoozi&theme=tokyonight" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reoozi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&cache_seconds=1800" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reoozi&theme=tokyonight" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reoozi&theme=tokyonight&utcOffset=1" />
 </div>
 
 <br/>
