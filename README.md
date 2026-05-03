@@ -174,5 +174,5 @@ status   : Building cool things. Always.
 ---
 
 <div align="center">
-  <sub>Crafted with ⚡ from Tunisia — © 2025 Yassine Romdhani</sub>
+  <sub>Crafted with ⚡ from Tunisia — © 2026 Yassine Romdhani</sub>
 </div>
